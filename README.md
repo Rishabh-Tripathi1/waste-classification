@@ -1,10 +1,10 @@
 # Waste Classification App
 
-## Overview
+## Overview 🌍
 
 The Waste Classification App is a web application that utilizes artificial intelligence (AI) to identify and classify waste from five categories: plastic bottles, wood, paper, e-waste, and plastic bags. This open-source project not only helps users correctly classify their waste but also provides efficient disposal recommendations, contributing to a cleaner and more sustainable environment.
 
-## Features
+## Features 🚀
 
 - **Image Recognition**: The app uses AI to analyze images of waste items, identifying them as plastic bottles, wood, paper, e-waste, or plastic bags.
 
@@ -18,7 +18,7 @@ The Waste Classification App is a web application that utilizes artificial intel
 
 - **Open Source**: This project is open source, allowing developers to contribute to its improvement and expansion.
 
-## Getting Started
+## Getting Started 🛠️
 
 To run the Waste Classification App locally, follow these steps:
 
@@ -48,7 +48,7 @@ To run the Waste Classification App locally, follow these steps:
 
 5. Open your web browser and access the app at [http://localhost:3000](http://localhost:3000).
 
-## Usage
+## Usage 📸
 
 1. **Upload an Image**: Click the "Upload Image" button to select an image of the waste item you want to classify.
 
@@ -58,7 +58,7 @@ To run the Waste Classification App locally, follow these steps:
 
 4. **Learn More**: Explore the educational resources section to learn more about waste management and recycling.
 
-## Contributing
+## Contributing 🤝
 
 We welcome contributions from the community to enhance and expand this project. To contribute:
 
@@ -83,15 +83,15 @@ We welcome contributions from the community to enhance and expand this project. 
 
 6. Your pull request will be reviewed, and once approved, your changes will be merged into the main project.
 
-## License
+## License 📜
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Acknowledgments
+## Acknowledgments 🙏
 
 We would like to thank the open-source community for their contributions and support in making this project possible.
 
-## Contact
+## Contact 📧
 
 If you have any questions or suggestions, please feel free to contact us at [tripathirishi80@gmail.com](mailto:tripathirishi80@gmail.com).
 
